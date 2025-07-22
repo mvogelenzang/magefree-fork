@@ -28,8 +28,9 @@ XMage community and resources:
 * [Reddit XMage discord channel](https://discord.gg/Pqf42yn);
 * [Latest changes](https://github.com/magefree/mage/commits/master);
 * [Latest news](https://jaydi85.github.io/xmage-web-news/news.html);
-* [Latest releases](https://github.com/magefree/mage/releases); 
+* [Latest releases](https://github.com/magefree/mage/releases);
 * [Project documentation](https://github.com/magefree/mage/wiki).
+* [Server API](docs/xmage-server-api.md)
 
 Servers status:
 * http://xmage.today/servers/ (temporarily out of service)
